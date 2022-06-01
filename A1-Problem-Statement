@@ -1,0 +1,8 @@
+1. Take any different dataset (apart from breast cancer) that has target value binary (0 OR 1).
+2. Visualize the data using various graphs using matplotlib or sklearn python libraries.
+3. Transform data according to model requirements. HINT [MP-Neuron takes only BINARY DATA as input]
+4. Split the data for training and testing.
+5. Train MP-Neuron Model on the choosen dataset and test it on the testing set to get model accuracy.
+6. Train Perceptron Model on the choosen dataset and test it on the testing set to get model accuracy.
+* [Write CLASS based model as shown in LAB for Statement 5 and 6]
+* [Visualize the training accuracy or loss for the models] 
