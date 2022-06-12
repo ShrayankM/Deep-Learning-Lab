@@ -1,0 +1,5 @@
+1. Plot simple Sigmoid Neuron Function using matplotlib or seaborn python libraries
+2. Plot a 2-D Contour plot for dummny values of X and Y
+3. Plot a 3-D Contour plot for dummny values of X and Y
+4. Train SigmoidNeuron Model on the dummy TOY dataset and do contour plotting
+5. Run the SigmoidNeuron Model on any dataset of your choice.
