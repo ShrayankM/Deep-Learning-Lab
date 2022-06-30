@@ -1,0 +1,5 @@
+1. Generate Non-linear dummy dataset 
+2. Train SigmoidNeuron Model on generated dataset
+3. Check Accuracy of trained Model on test set.  
+4. Write SimpleFF Network as shown in Fig.(SimpleNetwork)
+5. Write generic code for FeedForwardNetwork in Fig. (FFNetworkSingle)
