@@ -1,0 +1,8 @@
+1. Understand and implement the different initialization methods given below - 
+Zeros, Random, Xavier, He
+
+2. Understand and implement the different activation functions given below - 
+(sigmoid, tanh, relu, leaky-relu)
+
+3. Perform experiments using various combinations of initialization methods and
+activation functions and analyze the error rate, accuracy and convergence time. 

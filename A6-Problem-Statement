@@ -1,0 +1,14 @@
+Part-1 (Notebook - 1)
+1. Implement various optimization algorithms given below on simple sigmoid neuron class
+(Gradient Descent, Mini-Batch GD, Momemtum-based GD, Nesterov Accelerated GD (NAG), 
+Adaptive Gradients (AdaGrad), Root Mean Squared Propagation (RmsProp), Adam)
+
+2. Create a 2D contour plot and use animation to visulaze the convergence 
+of all the various optimizers
+
+Part-2 (Notebook - 2)
+1. Change the dataset for feedforward network
+2. Change the network accordingly.
+
+3. Apply the same optimizers given above for the simple FeedForward-Neural Network
+consisting and experiment using various optimizers to solve multi-class classification problem on dummy data.

@@ -1,0 +1,7 @@
+1. Perform various experiments using all the learned techniques so far to 
+check model performance.
+
+2. Apply various regularization techniques (example L2-Norm) to improve model
+performance and prevent overfitting.
+
+3. Apply the technique of early-stopping to prevent overfitting.
