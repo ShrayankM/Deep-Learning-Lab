@@ -1,0 +1,5 @@
+Create a Convolutional Neural Network (CNN) architecture for the task of multi-class classification using ImageNet Dataset
+do not take the entire dataset (take a subset of your liking). The link is given below for ImageNet dataset
+https://www.image-net.org/download.php
+
+Complete the above assignment using Pytorch, the files for which have been uploaded in the folder of the same name.
